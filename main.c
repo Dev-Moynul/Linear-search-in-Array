@@ -18,7 +18,7 @@ int main()
   if(pos==-1)
     printf("Item is not found");
   else{
-    printf("Number is found");
+    printf("Item is found");
   }
     return 0;
 }
