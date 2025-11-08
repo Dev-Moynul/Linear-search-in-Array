@@ -16,9 +16,9 @@ int main()
       }
   }
   if(pos==-1)
-    printf("Number is not found");
+    printf("Number is not found.");
   else{
-    printf("Number is found");
+    printf("Number is found.");
   }
     return 0;
 }
